@@ -3,7 +3,7 @@
 
 #### :books: About me: 
 
-I'm a Full Stack Developer, currently studying Computer Science at Buenos Aires, Argentina. I have developed e-commerce stores using technologies like: JQuery, JavaScript, HTML and CSS.
+I'm a Full Stack Web Developer, currently studying Computer Science at Buenos Aires, Argentina. I have developed e-commerce stores using technologies like: JQuery, JavaScript, HTML and CSS.
 
 I love learning new technologies and contributing to open source communities.
 
