@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi I'm Marcelo :man_technologist: 
 
-<!--
-**marcelotestard/marcelotestard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### :books: About me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Full Stack Developer, currently studying Computer Science at Buenos Aires, Argentina. I have developed ecommerce stores using technologies like: JQuery, JavaScript, HTML and CSS.
+
+I love learning new technologies and contributing to open sourse communities.
+
+
+#### :rocket: Connect with me:
+
+ Want to get help or discuss something? Get connected on [@MarceloTestard](http://www.twitter.com/MarceloTestard)
+
+![marcelotestard's github stats](https://github-readme-stats.vercel.app/api?username=marcelotestard&theme=synthwave)
+
